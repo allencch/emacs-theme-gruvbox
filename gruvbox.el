@@ -130,7 +130,7 @@ Should contain 2 %s constructs to allow for theme name and directory/prefix")
      (trailing-whitespace                               (:background gruvbox-bright_red))
      (escape-glyph                                      (:foreground gruvbox-bright_aqua))
      (header-line                                       (:background gruvbox-dark0 :foreground gruvbox-light3 :box nil :inherit nil))
-     (highlight                                         (:background gruvbox-dark4 :foreground gruvbox-light0))
+     (highlight                                         (:background gruvbox-dark2 :foreground gruvbox-light0))
      (homoglyph                                         (:foreground gruvbox-bright_yellow))
      (match                                             (:foreground gruvbox-dark0 :background gruvbox-bright_blue))
 
@@ -142,16 +142,16 @@ Should contain 2 %s constructs to allow for theme name and directory/prefix")
 
      ;;; whitespace-mode
 
-     (whitespace-space                          (:background gruvbox-bg :foreground gruvbox-dark4))
-     (whitespace-hspace                         (:background gruvbox-bg :foreground gruvbox-dark4))
-     (whitespace-tab                            (:background gruvbox-bg :foreground gruvbox-dark4))
-     (whitespace-newline                        (:background gruvbox-bg :foreground gruvbox-dark4))
+     (whitespace-space                          (:background gruvbox-bg :foreground gruvbox-dark2))
+     (whitespace-hspace                         (:background gruvbox-bg :foreground gruvbox-dark2))
+     (whitespace-tab                            (:background gruvbox-bg :foreground gruvbox-dark2))
+     (whitespace-newline                        (:background gruvbox-bg :foreground gruvbox-dark2))
      (whitespace-trailing                       (:background gruvbox-dark1 :foreground gruvbox-bright_red))
      (whitespace-line                           (:background gruvbox-dark1 :foreground gruvbox-bright_red))
-     (whitespace-space-before-tab               (:background gruvbox-bg :foreground gruvbox-dark4))
-     (whitespace-indentation                    (:background gruvbox-bg :foreground gruvbox-dark4))
+     (whitespace-space-before-tab               (:background gruvbox-bg :foreground gruvbox-dark2))
+     (whitespace-indentation                    (:background gruvbox-bg :foreground gruvbox-dark2))
      (whitespace-empty                          (:background 'unspecified :foreground 'unspecified))
-     (whitespace-space-after-tab                (:background gruvbox-bg :foreground gruvbox-dark4))
+     (whitespace-space-after-tab                (:background gruvbox-bg :foreground gruvbox-dark2))
 
      ;;; RainbowDelimiters
 
